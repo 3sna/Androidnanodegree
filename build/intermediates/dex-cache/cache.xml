@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/pre-dexed/debug/classes-8c9d4ce08441fd49b6882540fc6ca70592e34a23.jar" />
+    </item>
+    <item
+        jar="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/pre-dexed/debug/classes-9a628173f525cdc32d32b6c1dd89ff005a4c9d4a.jar" />
+    </item>
+    <item
+        jar="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/pre-dexed/debug/classes-df6882ea1d10b8481fd07d29a5e2f62ae08580d1.jar" />
+    </item>
+    <item
+        jar="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/pre-dexed/debug/classes-1105ba1fab603b9cc68a4a069942c7d933682fe8.jar" />
+    </item>
+    <item
+        jar="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/pre-dexed/debug/classes-6e7a7086a478819e6ef639432a75726eb847d1de.jar" />
+    </item>
+    <item
+        jar="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/pre-dexed/debug/classes-9796fa0a693d4570629ff63b129d2e57f072d583.jar" />
+    </item>
+    <item
+        jar="/Users/trisnawiyatni/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1-756cb92b8bdf60ae0abf96feff3ba0b52c04580d.jar" />
+    </item>
+    <item
+        jar="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/pre-dexed/debug/classes-6043fc66edeae2d3555feb3d5f92567aa9bc2666.jar" />
+    </item>
+    <item
+        jar="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/pre-dexed/debug/classes-a58eca0ffdac6138707d7f19abc93a3ba86c1717.jar" />
+    </item>
+    <item
+        jar="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/trisnawiyatni/AndroidStudioProjects/TestRadioButton/app/build/intermediates/pre-dexed/debug/classes-63a5bc629fb8bd66be6767f549293b4b48beff2e.jar" />
+    </item>
+
+</items>
